@@ -19,5 +19,5 @@ jobs:
   Test-My-101:
     runs-on: ubuntu-latest
     steps:
-    	- run: echo "my test action."
+      - run: echo "my test action."
 
